@@ -22,3 +22,5 @@ This project is a simple image gallery built with HTML, CSS, and JavaScript. It 
 - **HTML:** Structure of the gallery
 - **CSS:** Styling for the gallery, lightbox, and image effects
 - **JavaScript:**  Dynamic image loading and lightbox functionality
+![Screenshot (26)](https://github.com/user-attachments/assets/66e928cc-2b33-4e81-99c3-377d70f68517)
+
